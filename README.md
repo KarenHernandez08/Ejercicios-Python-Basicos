@@ -26,7 +26,7 @@
    Finalmente teniendo un arreglo de enteros donde encontraremos la suma de los elementos de dicho arreglo
    Debe tener: 
    1. El arreglo debe de ser menor a mil datos
-   2. - Crear una función que haga la suma 
+   2. Crear una función que haga la suma 
 
  
    ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/suma_arreglo.PNG)
