@@ -29,6 +29,5 @@
     ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/salida_suma_arreglo.PNG)
 
 
-    ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-oso.PNG)
-    ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-rino.PNG)
-    ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/salida.PNG)
+
+>Ejercicios propuestos por Gabriella Martínez parte de Hackademy
