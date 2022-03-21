@@ -9,11 +9,13 @@
 
    ## Imprime un animal
    Este ejercicio se basa en crear una lista de animales, donde va a permitir el usuario selecionar el animal y dinalmente mostrarlo por consola
+
+   ![Imagen](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-oso.PNG)
     
     ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-oso.PNG)
 
     ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-rino.PNG)
-    
+
     ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/salida.PNG)
 
    ## Suma 2 números
