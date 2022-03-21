@@ -10,7 +10,7 @@
    ## Imprime un animal
 Este ejercicio se basa en crear una lista de animales, donde va a permitir el usuario selecionar el animal y dinalmente mostrarlo por consola
 
-    ```python
+    e:
     print ("Binvenido al juego de los animaleas")
 while True:
     print ("1 Oso")
