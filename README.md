@@ -2,13 +2,13 @@
  
  Este repositorio cuenta con 3 ejerciciós basicos 
 
-   1. Imprime un Animal[aquí el ejercicio](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/tree/main/Animal)
+   1. Imprime un Animal [aquí el ejercicio](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/tree/main/Animal)
    2. Suma 2 números [aquí el ejercicio](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/tree/main/Suma%202%20numeros)
    3. Suma de arreglo [aquí el ejercicio](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/tree/main/Suma%20de%20arreglo)
 
 
    ## Imprime un animal
-    Este ejercicio se basa en crear una lista de animales, donde va a permitir el usuario selecionar el animal y dinalmente mostrarlo por consola
+   Este ejercicio se basa en crear una lista de animales, donde va a permitir el usuario selecionar el animal y dinalmente mostrarlo por consola
     
     ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-oso.PNG)
     ![](https://github.com/KarenHernandez08/Ejercicios-Python-Basicos/blob/main/imagenes/animal-rino.PNG)
